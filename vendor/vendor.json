@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Nf6MTTm2B6KIeFzBBw30/pHuzkE=",
+			"path": "github.com/SermoDigital/jose",
+			"revision": "b10f12c5188d355a3eacc61aba9abd3eb6b3b787",
+			"revisionTime": "2016-09-21T21:35:50Z"
+		},
+		{
+			"checksumSHA1": "BoDMXJFal8LyM35n5LKhZGIxLyk=",
+			"path": "gopkg.in/dgrijalva/jwt-go.v2",
+			"revision": "268038b363c7a8d7306b8e35bf77a1fde4b0c402",
+			"revisionTime": "2016-06-16T19:14:24Z"
+		}
+	],
+	"rootPath": "github.com/wacul/jwt"
+}

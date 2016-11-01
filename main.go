@@ -4,7 +4,7 @@ import (
 	"log"
 
 	flags "github.com/jessevdk/go-flags"
-	"github.com/wacul/jwt/encode"
+	"github.com/wacul/jwt/internal/encode"
 )
 
 // Options is the root of commandline-arguments struction
